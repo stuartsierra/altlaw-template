@@ -40,7 +40,7 @@
   <build>
     <plugins>
       <plugin>
-        <groupId>org.altlaw</groupId>
+        <groupId>com.theoryinpractise</groupId>
         <artifactId>clojure-maven-plugin</artifactId>
       </plugin>
     </plugins>
